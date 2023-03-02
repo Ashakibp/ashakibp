@@ -1,6 +1,6 @@
 # 💫 About Me:
 ####  🏗️ Builder @PocketShop | Prev @OpenStore @HubSpot @Deloitte @InteractBot
-#### 📍 Based in Miami / Frequently in NYC
+#### 📍 Miami/NYC
 
 
 # 💻 Tech Stack:
