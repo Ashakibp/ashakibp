@@ -1,6 +1,5 @@
 # 💫 About Me:
-####  🏗️ Crash Test Dummy @Commerce Systems | Prev @OpenStore @HubSpot @Deloitte @InteractBot @IDF
-#### 📍 NYC based
+####  🏗️ Crash Test Dummy | Prev @OpenStore @HubSpot @Deloitte @InteractBot 
 
 
 # 💻 Tech Stack:
